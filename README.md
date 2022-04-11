@@ -1,14 +1,7 @@
 ## 👋 Hello everyone, I'm Mehmet.
-Programmer & DApp Developer
-Computer Programming student at IBU
-💬 [How to reach me](mailto:mehmetgulpolat@outlook.com)
-HTML
-CSS
-JS
-PYTHON
-C
-C#
-
+Programmer & DApp Developer<br>
+Computer Programming student at IBU<br>
+💬 [How to reach me](mailto:mehmetgulpolat@outlook.com)<br><br>
 #### ⚡ Languages and Tools:
 <p align="left">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Ethereum_logo_2014.svg/1257px-Ethereum_logo_2014.svg.png" alt="Ethereum" height="40" style="vertical-align:top; margin:4px">
