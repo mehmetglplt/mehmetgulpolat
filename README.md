@@ -1,7 +1,7 @@
 ### Hi there everyone 👋
 </>
 <br/>
-📧[How to reach me](mailto:mehmetgulpolat@outlook.com)💬
+💬 [How to reach me](mailto:mehmetgulpolat@outlook.com)
 <br/>
 
 #### ⚡ Languages and Tools:
