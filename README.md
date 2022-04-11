@@ -1,8 +1,6 @@
-### Hi there everyone 👋
+#### 👋 Hello everyone, I'm Mehmet.
 </>
-<br/>
 💬 [How to reach me](mailto:mehmetgulpolat@outlook.com)
-<br/>
 
 #### ⚡ Languages and Tools:
 <p align="left">
