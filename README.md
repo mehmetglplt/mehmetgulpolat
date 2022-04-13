@@ -1,5 +1,5 @@
 ## 👋 Hello everyone, I'm Mehmet.
-Programmer & DApp Developer<br>
+Developer<br>
 Computer Programming student at IBU<br>
 💬 [How to reach me](mailto:mehmetgulpolat@outlook.com)<br><br>
 #### ⚡ Languages and Tools:
