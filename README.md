@@ -1,6 +1,6 @@
 ## 👋 Hello everyone, I'm Mehmet.
 Developer<br>
-Computer Programming student at IBU<br>
+Graduate of Computer Programming from IBU<br>
 💬 [How to reach me](mailto:mehmetgulpolat@outlook.com)<br><br>
 #### ⚡ Languages and Tools:
 <p align="left">
